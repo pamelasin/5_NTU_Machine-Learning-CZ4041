@@ -11,7 +11,7 @@
 - Pre-trained YOLOv4 weights trained on COCO dataset (not trained on object classes from this project) used for faster convergence. 
 - OID annotation files converted into YOLOv4 format. Configuration file edited to specify suggested hyperparameters for dataset. 
 - Trained on Colab Pro
-- Files include Python code for YOLOv4, PDF report (describes Faster RCNN and SSD done by other team members), presentation slides. 
+- Files include Python code for YOLOv4, PDF report (describes Faster RCNN and SSD done by other team members).
 
 
 ## **PDF report excerpts**
